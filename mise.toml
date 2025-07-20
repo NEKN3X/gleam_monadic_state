@@ -1,0 +1,5 @@
+[tools]
+erlang = "latest"
+gleam = "latest"
+pnpm = "latest"
+node = "latest"
