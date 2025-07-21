@@ -1,13 +1,13 @@
-# monadic
+# monadic_state
 
 [![Package Version](https://img.shields.io/hexpm/v/monadic)](https://hex.pm/packages/monadic)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/monadic/)
 
 ```sh
-gleam add monadic@1
+gleam add monadic_state@1
 ```
 ```gleam
-import monadic
+import monadic_state
 
 pub fn main() -> Nil {
   // TODO: An example of the project in use
