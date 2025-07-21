@@ -1,7 +1,7 @@
 # monadic_state
 
-[![Package Version](https://img.shields.io/hexpm/v/monadic)](https://hex.pm/packages/monadic)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/monadic/)
+[![Package Version](https://img.shields.io/hexpm/v/monadic_state)](https://hex.pm/packages/monadic_state)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/monadic_state/)
 
 ```sh
 gleam add monadic_state@1
@@ -14,7 +14,7 @@ pub fn main() -> Nil {
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/monadic>.
+Further documentation can be found at <https://hexdocs.pm/monadic_state>.
 
 ## Development
 
